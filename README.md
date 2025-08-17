@@ -1,6 +1,11 @@
+# About Attendance System
+Back End : PHP (Codeigniter 3)
+Database : MySQL
+Front End : Tailwind CSS
+
 # Attendance System Documentation
 
-## Tampilan Dashboard
+## Dashboard
 ![Dashboard](Dokumentasi/Dashboard.png)
 
 ## Departemen
