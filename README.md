@@ -1,7 +1,7 @@
 # About Attendance System
-Back End : PHP (Codeigniter 3)
-Database : MySQL
-Front End : Tailwind CSS
+Back End : PHP (Codeigniter 3)<br>
+Database : MySQL<br>
+Front End : Tailwind CSS<br>
 
 # Attendance System Documentation
 
